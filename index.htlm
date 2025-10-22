@@ -64,61 +64,6 @@
 </head>
 <body>
   <header>
-    <h1>💡 Product Proposal: AeroMatch</h1>
+<h1>💡 Product Proposal: AeroMatch</h1>
     <p>Team Orbtronics | Fall 2025</p>
   </header>
-
-  <div class="container">
-    <section id="team">
-      <h2>Team Members</h2>
-      <ul>
-        <li>Tyler Toussaint – CEO, Developer & Designer</li>
-      </ul>
-    </section>
-
-    <section id="overview">
-      <h2>Application Overview</h2>
-      <p>
-        <strong>AeroMatch</strong> is an interactive web app that helps aviation enthusiasts
-        and students discover their ideal aircraft, flight path, or aviation career match
-        through a fun, personality-based quiz. From future pilots to aerospace engineers,
-        users answer a series of questions and instantly see their personalized results.
-      </p>
-    </section>
-
-    <section id="technology">
-      <h2>Technology Overview</h2>
-     
-    </section>
-
-    <section id="last-updated">
-      <h2>Proposal Last Updated</h2>
-      <p class="last-updated">October 17, 2025</p>
-    </section>
-
-    <section id="features">
-      <h2>Feature List (Deliverable Features)</h2>
-   
-    </section>
-
-    <section id="future-features">
-      <h2>Future Feature List</h2>
-  
-    </section>
-
-    <section id="basic-technical">
-      <h2>Basic Technical Features</h2>
-      
-    </section>
-
-    <section id="advanced-technical">
-      <h2>Advanced Technical Features</h2>
-  
-    </section>
-  </div>
-
-  <footer>
-    <p>© 2025 Team Orbtronics | Hosted on GitHub Pages</p>
-  </footer>
-</body>
-</html>
